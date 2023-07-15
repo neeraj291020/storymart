@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501431774181",
+    "project_id": "storymart-e223b",
+    "storage_bucket": "storymart-e223b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501431774181:android:db915759b394904c76dd0c",
+        "android_client_info": {
+          "package_name": "com.neeraj.storymart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501431774181-9vtr2n9ktfj2795f4f5cqhpftq0mdvm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc4fP1KxPMDY3V7TLstYDhBvHkiwvpdRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501431774181-9vtr2n9ktfj2795f4f5cqhpftq0mdvm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
